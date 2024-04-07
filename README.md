@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying at **SMK BATIK PERBAIK PURWOREJO**
 
-- 🌱 I’m currently learning **Typescript, Laravel, Golang**
+- 🌱 I’m currently learning **Laravel & NextJS**
 
 - 💬 Ask me about **Javascript, Database**
 
