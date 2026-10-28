@@ -1,3 +1,3 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/putraaxzy/putraaxzy/refs/heads/master/mg.jpg" />
+    <img src="https://raw.githubusercontent.com/putraaxzy/putraaxzy/refs/heads/master/hal.jpg" />
 </p>
